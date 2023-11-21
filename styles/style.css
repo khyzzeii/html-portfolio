@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(26, 23, 23);
+    color: whitesmoke;
+}
+
+a{
+    text-decoration: none;
+    color: aquamarine;
+}
+ h1{
+    box-sizing: border-box;
+    padding: 30px;
+    background-color: rgb(172, 169, 1);
+    border-radius: 40px;
+    width:auto;
+    text-align:center;
+ }
